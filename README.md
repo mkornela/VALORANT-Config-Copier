@@ -63,10 +63,10 @@ This command will install all necessary packages (inquirer, axios, colors, doten
 
 The script needs an API key to fetch player names.
 
-1. Go to the [HenrikDev website](https://henrikdev.xyz/)
-2. Sign in or create an account (you can use Discord, which is quick and easy)
-3. After logging in, you should see your API key on the main page. It will look similar to `HDEV-xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx`
-4. Copy this key. Keep it secret and don't share it with anyone!
+1. Go to the [HenrikDev website](https://docs.henrikdev.xyz/authentication-and-authorization)
+2. Follow the steps on the site
+3. You should get your API key on their Discord. It will look similar to `HDEV-xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx`
+4. Copy this key and put it in .env file. Keep it secret and don't share it with anyone!
 
 ### Step 4: Configure your API key
 
