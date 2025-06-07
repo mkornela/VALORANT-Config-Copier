@@ -14,9 +14,9 @@
     "copier",
     "switch"
   ],
-  "author": "",
+  "author": "deemdll",
   "license": "ISC",
-  "description": "",
+  "description": "A simple yet powerful command-line tool for easily copying VALORANT settings (crosshair, keybinds, graphics, etc.) from one account to another on the same computer.",
   "dependencies": {
     "axios": "^1.9.0",
     "colors": "^1.4.0",
