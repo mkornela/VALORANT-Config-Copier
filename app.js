@@ -112,7 +112,7 @@ async function enhanceProfilesWithPlayerNames(profiles) {
  * Fetches player name using HenrikDev API
  * @param {string} puuidWithRegion e.g., 'xxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx-eu'
  * @param {string} apiKey Your HenrikDev API key
- * @returns {Promise<string|null>} Player name (Name#Tag) or null if failed
+ * @returns {Promise<string|null>} Player name (Name#Tag) or null if fetching failed
  */
 async function getPlayerName(puuidWithRegion, apiKey) {
     try {

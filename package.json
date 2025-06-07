@@ -1,11 +1,19 @@
 {
-  "name": "cfg-copy",
+  "name": "valorant-config-copier",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "prod": "node app.js"
   },
-  "keywords": [],
+  "keywords": [
+    "valorant",
+    "config",
+    "switcher",
+    "copy",
+    "configs",
+    "copier",
+    "switch"
+  ],
   "author": "",
   "license": "ISC",
   "description": "",
